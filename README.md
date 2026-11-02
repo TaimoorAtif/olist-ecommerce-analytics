@@ -9,6 +9,11 @@ The project covers the process from exploring and validating the original data t
 **Tools:** Excel · PostgreSQL · SQL · Power BI · DAX  
 **Dataset:** [Brazilian E-Commerce Public Dataset by Olist (Kaggle)](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
+### Download the Interactive Power BI Report
+
+[**Download the full Power BI report (.pbix)**](https://github.com/TaimoorAtif/olist-ecommerce-analytics/releases/latest)
+
+The report can be opened in Power BI Desktop for Windows. It contains the saved data model, DAX measures, and six interactive dashboard pages.
 ---
 
 ## Power BI Dashboard
@@ -93,6 +98,7 @@ More detail is available in the [Excel project documentation](documentation/Olis
 | [Original SQL Working Script](sql/olist-working-script.sql) | My complete working SQL file, including exploratory queries and development steps |
 | [Excel Draft Board](documentation/Olist%20-%20Project%20Documentation.xlsx) | Exploration, validation, staging, modelling, analysis, recommendations and Power BI development notes |
 | [Dashboard Screenshots](screenshots/) | All six report pages and five alternative views |
+| [Power BI Report (.pbix)](https://github.com/TaimoorAtif/olist-ecommerce-analytics/releases/latest) | Downloadable six-page interactive report with the saved data model and DAX measures |
 
 The original SQL working script was developed incrementally and is not intended to run from start to finish as an automated database setup. The selected queries use the populated PostgreSQL schemas created during the project.
 
