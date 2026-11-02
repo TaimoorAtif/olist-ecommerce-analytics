@@ -81,7 +81,7 @@ Based on the findings, I developed three recommendations:
 
 The recommendations include proposed pilots, measures of success and risks. **They are suggestions based on historical analysis, not initiatives that were implemented or tested.**
 
-More detail is available in the [Excel project documentation](documentation/olist-project-draft-board.xlsx) and the Executive Recommendations dashboard page.
+More detail is available in the [Excel project documentation](documentation/Olist%20-%20Project%20Documentation.xlsx) and the Executive Recommendations dashboard page.
 
 ---
 
@@ -91,7 +91,7 @@ More detail is available in the [Excel project documentation](documentation/olis
 |---|---|
 | [Selected SQL Queries](sql/olist-selected-queries.sql) | A shorter selection of validation, transformation, modelling and analytical SQL |
 | [Original SQL Working Script](sql/olist-working-script.sql) | My complete working SQL file, including exploratory queries and development steps |
-| [Excel Draft Board](documentation/olist-project-draft-board.xlsx) | Exploration, validation, staging, modelling, analysis, recommendations and Power BI development notes |
+| [Excel Draft Board](documentation/Olist%20-%20Project%20Documentation.xlsx) | Exploration, validation, staging, modelling, analysis, recommendations and Power BI development notes |
 | [Dashboard Screenshots](screenshots/) | All six report pages and five alternative views |
 
 The original SQL working script was developed incrementally and is not intended to run from start to finish as an automated database setup. The selected queries use the populated PostgreSQL schemas created during the project.
